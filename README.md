@@ -8,6 +8,7 @@ At Anit Games, we believe in pushing the boundaries of creativity and innovation
 
 ## Connect With Us
 
+[![Website](https://img.shields.io/badge/Website-Visit-9cf)](https://www.anitgames.rf.gd)
 ### Social Media
 
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Fanitgames-orange)](https://www.reddit.com/r/anitgames/)
