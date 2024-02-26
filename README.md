@@ -1,6 +1,6 @@
 # Welcome to Anit Games Studio! 🎮
 
-![Anit Games Logo](https://example.com/anit-games-logo.png)
+![Anit Games Logo](Studio_Icon_Black_512.jpg)
 
 ## About Us
 
