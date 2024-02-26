@@ -1,42 +1,37 @@
-# Welcome to Anit Games Studio! 🎮✨
+# Welcome to Anit Games Studio! 🎮
 
-We are a passionate team of game developers dedicated to crafting immersive gaming experiences that ignite your imagination and push the boundaries of storytelling and gameplay.
+We are a passionate game development studio committed to creating immersive gaming experiences that captivate and inspire players worldwide.
 
 ## About Us
 
-At Anit Games Studio, we believe in the power of creativity to transport players to new worlds and create unforgettable memories. Our team is driven by a shared love for gaming and a commitment to delivering high-quality, engaging experiences for players of all ages.
-
-## Latest Releases
-
-Check out our latest game releases:
-
-1. **[Title of Game 1](Link to Game 1)** - Description of Game 1.
-2. **[Title of Game 2](Link to Game 2)** - Description of Game 2.
-3. **[Title of Game 3](Link to Game 3)** - Description of Game 3.
+At Anit Games, we believe in pushing the boundaries of creativity and innovation to deliver unforgettable gaming adventures. Our team consists of dedicated developers, artists, and storytellers who are united by a shared love for gaming and a commitment to excellence.
 
 ## Connect With Us
 
-Join our community and stay updated on our latest news, events, and releases:
+### Social Media
 
-| Social Media | Link |
-|--------------|------|
-| ![Reddit](images/reddit.png) | [Reddit Community](https://www.reddit.com/r/anitgames/) |
-| ![Facebook](images/facebook.png) | [Facebook Group](https://www.facebook.com/groups/392617553452256) |
-| ![Twitter](images/twitter.png) | [Twitter](https://twitter.com/anit_games) |
-| ![Discord](images/discord.png) | [Discord Server](https://discord.com/channels/1200135091834327111/1200135092538974311) |
-| ![Instagram](images/instagram.png) | [Instagram](https://www.instagram.com/anit.games/) |
-| ![YouTube](images/youtube.png) | [YouTube Channel](https://www.youtube.com/channel/UCp463-uFoalQodsOYQEA9Rw) |
+[![Reddit](https://img.shields.io/badge/Reddit-r%2Fanitgames-orange)](https://www.reddit.com/r/anitgames/)
+[![Facebook](https://img.shields.io/badge/Facebook-Anit%20Games-blue)](https://www.facebook.com/groups/392617553452256)
+[![Twitter](https://img.shields.io/badge/Twitter-%40anit__games-blue)](https://twitter.com/anit_games)
+[![Instagram](https://img.shields.io/badge/Instagram-anit.games-purple)](https://www.instagram.com/anit.games/)
+[![Discord](https://img.shields.io/badge/Discord-Anit%20Games-blueviolet)](https://discord.com/channels/1200135091834327111/1200135092538974311)
+[![YouTube](https://img.shields.io/badge/YouTube-Anit%20Games-red)](https://www.youtube.com/channel/UCp463-uFoalQodsOYQEA9Rw)
 
-## Support Us
+### Gaming Platforms
 
-If you enjoy our games and would like to support our work, consider donating:
+[![Itch.io](https://img.shields.io/badge/Itch.io-Anit%20Games-yellow)](https://anit-games.itch.io/)
+[![GameJolt](https://img.shields.io/badge/GameJolt-Anit%20Games-green)](https://gamejolt.com/@anitgames)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Anit%20Games-lightgrey)](https://anitgames.gumroad.com/?_gl=1*8ybudb*_ga*MTgyOTYwMjk4OS4xNzA2MjA5NjY5*_ga_6LJN6D94N6*MTcwNjI2MTE1MS4yLjEuMTcwNjI2MTE1OS4wLjAuMA..)
+[![Kongregate](https://img.shields.io/badge/Kongregate-Anit%20Games-brightgreen)](https://www.kongregate.com/accounts/anitgames)
 
-- **[PayPal](https://paypal.me/anitgames?country.x=IN&locale.x=en_GB)**
-- **[Patreon](https://www.patreon.com/AnitGames)**
-- **[BuyMeACoffee](https://www.buymeacoffee.com/anitgames)**
-- **[Ko-fi](https://ko-fi.com/anitgames)**
+### Support Us
 
-## Join the Adventure
+[![Paypal](https://img.shields.io/badge/Paypal-Anit%20Games-blue)](https://paypal.me/anitgames?country.x=IN&locale.x=en_GB)
+[![Patreon](https://img.shields.io/badge/Patreon-Anit%20Games-orange)](https://www.patreon.com/AnitGames)
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-Anit%20Games-yellow)](https://www.buymeacoffee.com/anitgames)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Anit%20Games-orange)](https://ko-fi.com/anitgames)
 
-Come join us on our journey to create unforgettable gaming experiences! Follow us on social media, subscribe to our YouTube channel, and embark on epic adventures with Anit Games Studio.
+## Stay Updated
+
+Follow us on our social media channels and gaming platforms to stay updated on our latest releases, news, and behind-the-scenes insights. Join the Anit Games community today!
 
